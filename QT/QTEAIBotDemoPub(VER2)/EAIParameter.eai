@@ -1,0 +1,3 @@
+dashgo;frequency:3:10.00:115200 or 230400#baudrate:2:230400:#
+global_plan;enable_segment_plan:1:1:#segment_plan_distance:3:2.00:>= 2.0#
+ydlidar;enable_lidars:4:0,:#lidar0_angle_max:3:90.00:-180.0~180.0#lidar0_angle_min:3:-180.00:-180.0~180.0#lidar0_baudrate:2:230400:#lidar0_filter:1:1:#lidar0_frequency:3:10.00:#lidar0_intensities:2:0:>= 0#lidar0_inversion:2:1:>= 0#lidar0_port:4:/dev/ydlidar1:115200 or 230400#lidar0_position:4:0.17,-0.17,0:position and angle#lidar0_range_max:3:16.00:>= 0.0#lidar0_range_min:3:0.10:>= 0.0#lidar0_reverse:1:1:#lidar0_sample_rate:2:4:> 0#

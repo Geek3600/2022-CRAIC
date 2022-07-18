@@ -1,0 +1,13 @@
+port;4;/dev/ydlidar2
+baudrate;2;115200
+frequency;3;10.0
+intensities;2;0
+angle_min;3;-180.0
+angle_max;3;180.0
+range_min;3;0.2
+range_max;3;16.1
+reverse;1;0
+sample_rate;2;9
+filter;1;0
+position;4;0,0,0
+ignore_array;4;;
