@@ -3,4 +3,4 @@
 * Fianl_Version: 最终版源码
 * QT：基于QT的上位机
 * EAI_new：重构的框架
-* 培训PPT
+## 全国二等奖
